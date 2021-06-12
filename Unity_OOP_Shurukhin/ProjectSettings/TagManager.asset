@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - First_Aid
+  - Enemy
+  - SpeedPlus
+  - Green_Key
+  - Floor
+  - Trap_Door
+  - Dead
   layers:
   - Default
   - TransparentFX
