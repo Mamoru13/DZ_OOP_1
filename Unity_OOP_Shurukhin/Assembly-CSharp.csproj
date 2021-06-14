@@ -52,9 +52,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\IDamage.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\HeatPoint.cs" />
-     <Compile Include="Assets\Scripts\IDamage.cs" />
+     <Compile Include="Assets\Resources\Reference.cs" />
+     <Compile Include="Assets\Resources\DisplayEndGame.cs" />
+     <Compile Include="Assets\Resources\GameController.cs" />
+     <Compile Include="Assets\Resources\DisplayWinGame.cs" />
      <None Include="Assets\TXT_DZ\DZ_2\Зачем нужны интерфейсы и их отличие от классов.txt" />
      <None Include="Assets\TXT_DZ\DZ_1\DZ_1_Shurukhin.txt" />
  <Reference Include="UnityEngine">
